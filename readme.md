@@ -1,3 +1,3 @@
-# Xylophone
+# Cleo TS Starter
 
-Sample game for cleo engine.
+Sample game template for cleo engine.
